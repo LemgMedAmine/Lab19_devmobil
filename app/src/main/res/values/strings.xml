@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoomMVVMDemo</string>
+    <string name="screen_title">Mes notes</string>
+    <string name="screen_subtitle">Un carnet simple, persistant et organise.</string>
+    <string name="new_note">Nouvelle note</string>
+    <string name="list_title">Notes enregistrees</string>
+    <string name="empty_title">Aucune note pour le moment</string>
+    <string name="empty_subtitle">Ajoutez votre premiere note depuis le formulaire.</string>
+    <string name="title_hint">Titre de la note</string>
+    <string name="description_hint">Description de la note</string>
+    <string name="add_note">Ajouter une note</string>
+    <string name="delete_all_notes">Supprimer tout</string>
+    <string name="sample_title">Titre</string>
+    <string name="sample_description">Description</string>
+</resources>
